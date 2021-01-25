@@ -148,5 +148,8 @@ document.getElementById("addItem").onclick = async (e) => {
     // surge
     // Nó yêu cầu nhập email và password
 };
-
+//Viết chức năng tìm kiếm 
+let searchTask = (task)=>{
+  console.log(task);
+}
 
